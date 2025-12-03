@@ -1,0 +1,1 @@
+A modern web hosting services platform featuring hosting plans, VPS solutions, and dedicated servers. Includes responsive design, pricing tables, and service showcases. Built with HTML, CSS, and JavaScript for optimal performance.
